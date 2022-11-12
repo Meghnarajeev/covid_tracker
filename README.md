@@ -6,4 +6,4 @@ Data from disease.sh.
 
 
 
-Checkout the project here ->Deployed by Vercel [Covid-19 Tracker](https://covid-tracker-flame-delta.vercel.app/)
+Checkout the project here ->Deployed by Vercel [Covid-19 Tracker](https://covid19-tracker-flame-delta.vercel.app/)
